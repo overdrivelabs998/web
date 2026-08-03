@@ -1,0 +1,13 @@
+# Chrome profile dirs left behind by local screenshot/resize tooling
+_rprof/
+_prof/
+_tmp_nm/
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+node_modules/
